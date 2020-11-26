@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name xmas_ornament_2020-rescue)(type Legacy)(uri ${KIPRJMOD}/xmas_ornament_2020-rescue.lib)(options "")(descr ""))
+)
